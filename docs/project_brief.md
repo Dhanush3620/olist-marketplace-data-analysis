@@ -1,7 +1,7 @@
 # Project Brief
 
 ## Project Title
-Olist Marketplace Performance Analysis: SQL, Python, and Power BI Case Study
+Olist Marketplace Performance Analysis: SQL, Python, and Tableau Case Study
 
 ## Business Problem
 Olist is a Brazilian e-commerce marketplace. The objective of this project is to analyze marketplace performance across sales, customers, sellers, delivery operations, and customer satisfaction to identify actionable opportunities for growth and operational improvement.
@@ -16,13 +16,13 @@ Olist is a Brazilian e-commerce marketplace. The objective of this project is to
 ## Tools
 - SQL: PostgreSQL
 - Python: pandas, matplotlib, seaborn
-- BI: Power BI
+- BI: Tableau
 - Version Control: GitHub
 
 ## Final Deliverables
 - SQL analysis scripts
 - Python EDA and customer analysis notebook
-- Power BI dashboard
+- Tableau dashboard
 - Final business recommendations
 
 ## Data Storage
